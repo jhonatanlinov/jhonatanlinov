@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**jhonatanlinov/jhonatanlinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Jhonatan Lino Vieira , Programador Front End , atualmente estou aprendendo e criando projetos com:
 
-Here are some ideas to get you started:
+  - HTML
+  - CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  e iniciando o aprendizado com:
+  
+  - JavaScript
+  - React
+
+Focado sempre em resolução de problemas e aprender nunca é de mais.
+<br>
+<br>
+<br>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonatanlinov)](https://github.com/anuraghazra/github-readme-stats)
